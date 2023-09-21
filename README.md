@@ -1,6 +1,6 @@
-# relogio_digital
+# Relógio digital
 
-##Olá, meu nome é Felipe e sou um estudante de programação. Este é meu primeiro projeto em Python que irei compartilhar aqui no GitHub.
+Olá, meu nome é Felipe e sou um estudante de programação. Este é meu primeiro projeto em Python que irei compartilhar aqui no GitHub.
 
 Ele foi baseado em um código que você pode achar facilmente na internet, porém terá mais a minha cara.
 
